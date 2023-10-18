@@ -1,0 +1,2 @@
+javac -cp .:libs/* ArcSoftFaceEngine.java 
+java -cp .:libs/arcsoft-sdk-face-4.1.1.0.jar SaveFaceFeat 

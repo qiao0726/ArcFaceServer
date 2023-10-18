@@ -1,0 +1,1688 @@
+2023-05-22 19:34:16,198 - decode-send - INFO - WebSocket connection success
+2023-05-22 19:34:22,103 - decode-send - INFO - Frame10 decoded.
+2023-05-22 19:34:22,103 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,103 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 10
+2023-05-22 19:34:22,104 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,199 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(10), returns -1
+2023-05-22 19:34:22,199 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,268 - decode-send - INFO - Frame20 decoded.
+2023-05-22 19:34:22,268 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,269 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 20
+2023-05-22 19:34:22,269 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,307 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(20), returns -1
+2023-05-22 19:34:22,308 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,427 - decode-send - INFO - Frame30 decoded.
+2023-05-22 19:34:22,428 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,428 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 30
+2023-05-22 19:34:22,428 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,465 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(30), returns -1
+2023-05-22 19:34:22,465 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,584 - decode-send - INFO - Frame40 decoded.
+2023-05-22 19:34:22,584 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,584 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 40
+2023-05-22 19:34:22,585 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,623 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(40), returns -1
+2023-05-22 19:34:22,623 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,739 - decode-send - INFO - Frame50 decoded.
+2023-05-22 19:34:22,739 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,739 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 50
+2023-05-22 19:34:22,740 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,781 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(50), returns -1
+2023-05-22 19:34:22,781 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,898 - decode-send - INFO - Frame60 decoded.
+2023-05-22 19:34:22,898 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:22,898 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 60
+2023-05-22 19:34:22,899 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:22,936 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(60), returns -1
+2023-05-22 19:34:22,936 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,055 - decode-send - INFO - Frame70 decoded.
+2023-05-22 19:34:23,055 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:23,055 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 70
+2023-05-22 19:34:23,055 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,096 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(70), returns -1
+2023-05-22 19:34:23,096 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,213 - decode-send - INFO - Frame80 decoded.
+2023-05-22 19:34:23,214 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:23,214 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 80
+2023-05-22 19:34:23,214 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,255 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(80), returns -1
+2023-05-22 19:34:23,255 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,374 - decode-send - INFO - Frame90 decoded.
+2023-05-22 19:34:23,375 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:23,375 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 90
+2023-05-22 19:34:23,375 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,417 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(90), returns -1
+2023-05-22 19:34:23,417 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,534 - decode-send - INFO - Frame100 decoded.
+2023-05-22 19:34:23,534 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:23,534 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 100
+2023-05-22 19:34:23,534 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,573 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(100), returns -1
+2023-05-22 19:34:23,574 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,779 - decode-send - INFO - Frame110 decoded.
+2023-05-22 19:34:23,779 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:23,779 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 110
+2023-05-22 19:34:23,779 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:23,820 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(110), returns -1
+2023-05-22 19:34:23,820 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,025 - decode-send - INFO - Frame120 decoded.
+2023-05-22 19:34:24,025 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:24,025 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 120
+2023-05-22 19:34:24,026 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,064 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(120), returns -1
+2023-05-22 19:34:24,064 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,262 - decode-send - INFO - Frame130 decoded.
+2023-05-22 19:34:24,262 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:24,262 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 130
+2023-05-22 19:34:24,263 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,304 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(130), returns -1
+2023-05-22 19:34:24,304 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,479 - decode-send - INFO - Frame140 decoded.
+2023-05-22 19:34:24,479 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:24,480 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 140
+2023-05-22 19:34:24,480 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,518 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(140), returns -1
+2023-05-22 19:34:24,518 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,704 - decode-send - INFO - Frame150 decoded.
+2023-05-22 19:34:24,705 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:24,705 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 150
+2023-05-22 19:34:24,705 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,747 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(150), returns -1
+2023-05-22 19:34:24,747 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,932 - decode-send - INFO - Frame160 decoded.
+2023-05-22 19:34:24,932 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:24,932 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 160
+2023-05-22 19:34:24,932 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:24,971 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(160), returns -1
+2023-05-22 19:34:24,971 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,173 - decode-send - INFO - Frame170 decoded.
+2023-05-22 19:34:25,174 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:25,174 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 170
+2023-05-22 19:34:25,174 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,212 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(170), returns -1
+2023-05-22 19:34:25,213 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,408 - decode-send - INFO - Frame180 decoded.
+2023-05-22 19:34:25,408 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:25,408 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 180
+2023-05-22 19:34:25,408 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,448 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(180), returns -1
+2023-05-22 19:34:25,448 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,636 - decode-send - INFO - Frame190 decoded.
+2023-05-22 19:34:25,636 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:25,636 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 190
+2023-05-22 19:34:25,636 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,675 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(190), returns -1
+2023-05-22 19:34:25,676 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,885 - decode-send - INFO - Frame200 decoded.
+2023-05-22 19:34:25,886 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:25,886 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 200
+2023-05-22 19:34:25,886 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:25,927 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(200), returns -1
+2023-05-22 19:34:25,927 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:26,288 - decode-send - INFO - Frame210 decoded.
+2023-05-22 19:34:26,289 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:26,289 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 210
+2023-05-22 19:34:26,290 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:26,329 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(210), returns -1
+2023-05-22 19:34:26,330 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:26,675 - decode-send - INFO - Frame220 decoded.
+2023-05-22 19:34:26,675 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:26,675 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 220
+2023-05-22 19:34:26,676 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:26,715 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(220), returns -1
+2023-05-22 19:34:26,715 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,077 - decode-send - INFO - Frame230 decoded.
+2023-05-22 19:34:27,077 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:27,078 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 230
+2023-05-22 19:34:27,078 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,117 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(230), returns -1
+2023-05-22 19:34:27,118 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,476 - decode-send - INFO - Frame240 decoded.
+2023-05-22 19:34:27,476 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:27,477 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 240
+2023-05-22 19:34:27,477 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,520 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(240), returns -1
+2023-05-22 19:34:27,520 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,878 - decode-send - INFO - Frame250 decoded.
+2023-05-22 19:34:27,878 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:27,878 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 250
+2023-05-22 19:34:27,878 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:27,919 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(250), returns -1
+2023-05-22 19:34:27,919 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:28,281 - decode-send - INFO - Frame260 decoded.
+2023-05-22 19:34:28,282 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:28,282 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 260
+2023-05-22 19:34:28,282 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:28,322 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(260), returns -1
+2023-05-22 19:34:28,322 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:28,675 - decode-send - INFO - Frame270 decoded.
+2023-05-22 19:34:28,675 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:28,675 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 270
+2023-05-22 19:34:28,676 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:28,716 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(270), returns -1
+2023-05-22 19:34:28,716 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,073 - decode-send - INFO - Frame280 decoded.
+2023-05-22 19:34:29,073 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:29,073 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 280
+2023-05-22 19:34:29,074 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,115 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(280), returns -1
+2023-05-22 19:34:29,115 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,475 - decode-send - INFO - Frame290 decoded.
+2023-05-22 19:34:29,476 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:29,476 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 290
+2023-05-22 19:34:29,476 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,516 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(290), returns -1
+2023-05-22 19:34:29,516 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,901 - decode-send - INFO - Frame300 decoded.
+2023-05-22 19:34:29,902 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:29,902 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 300
+2023-05-22 19:34:29,902 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:29,942 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(300), returns -1
+2023-05-22 19:34:29,942 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:30,285 - decode-send - INFO - Frame310 decoded.
+2023-05-22 19:34:30,285 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:30,286 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 310
+2023-05-22 19:34:30,286 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:30,323 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(310), returns -1
+2023-05-22 19:34:30,324 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:30,676 - decode-send - INFO - Frame320 decoded.
+2023-05-22 19:34:30,676 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:30,676 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 320
+2023-05-22 19:34:30,677 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:30,716 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(320), returns -1
+2023-05-22 19:34:30,716 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,070 - decode-send - INFO - Frame330 decoded.
+2023-05-22 19:34:31,070 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:31,070 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 330
+2023-05-22 19:34:31,071 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,109 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(330), returns -1
+2023-05-22 19:34:31,109 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,482 - decode-send - INFO - Frame340 decoded.
+2023-05-22 19:34:31,482 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:31,482 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 340
+2023-05-22 19:34:31,483 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,522 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(340), returns -1
+2023-05-22 19:34:31,522 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,878 - decode-send - INFO - Frame350 decoded.
+2023-05-22 19:34:31,878 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:31,879 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 350
+2023-05-22 19:34:31,879 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:31,918 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(350), returns -1
+2023-05-22 19:34:31,919 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:32,268 - decode-send - INFO - Frame360 decoded.
+2023-05-22 19:34:32,268 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:32,269 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 360
+2023-05-22 19:34:32,269 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:32,308 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(360), returns -1
+2023-05-22 19:34:32,308 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:32,675 - decode-send - INFO - Frame370 decoded.
+2023-05-22 19:34:32,676 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:32,676 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 370
+2023-05-22 19:34:32,676 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:32,718 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(370), returns -1
+2023-05-22 19:34:32,718 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,075 - decode-send - INFO - Frame380 decoded.
+2023-05-22 19:34:33,075 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:33,075 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 380
+2023-05-22 19:34:33,076 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,207 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(380), returns -1
+2023-05-22 19:34:33,207 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,478 - decode-send - INFO - Frame390 decoded.
+2023-05-22 19:34:33,479 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:33,479 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 390
+2023-05-22 19:34:33,479 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,522 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(390), returns -1
+2023-05-22 19:34:33,522 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,876 - decode-send - INFO - Frame400 decoded.
+2023-05-22 19:34:33,876 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:33,877 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 400
+2023-05-22 19:34:33,877 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:33,913 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(400), returns -1
+2023-05-22 19:34:33,913 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:34,281 - decode-send - INFO - Frame410 decoded.
+2023-05-22 19:34:34,282 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:34,282 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 410
+2023-05-22 19:34:34,282 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:34,321 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(410), returns -1
+2023-05-22 19:34:34,322 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:34,673 - decode-send - INFO - Frame420 decoded.
+2023-05-22 19:34:34,673 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:34,673 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 420
+2023-05-22 19:34:34,674 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:34,715 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(420), returns -1
+2023-05-22 19:34:34,715 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,084 - decode-send - INFO - Frame430 decoded.
+2023-05-22 19:34:35,085 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:35,085 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 430
+2023-05-22 19:34:35,085 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,126 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(430), returns -1
+2023-05-22 19:34:35,126 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,458 - decode-send - INFO - Frame440 decoded.
+2023-05-22 19:34:35,459 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:35,459 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 440
+2023-05-22 19:34:35,459 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,498 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(440), returns -1
+2023-05-22 19:34:35,498 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,874 - decode-send - INFO - Frame450 decoded.
+2023-05-22 19:34:35,874 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:35,874 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 450
+2023-05-22 19:34:35,875 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:35,912 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(450), returns -1
+2023-05-22 19:34:35,912 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:36,276 - decode-send - INFO - Frame460 decoded.
+2023-05-22 19:34:36,276 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:36,276 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 460
+2023-05-22 19:34:36,277 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:36,315 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(460), returns -1
+2023-05-22 19:34:36,315 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:36,671 - decode-send - INFO - Frame470 decoded.
+2023-05-22 19:34:36,671 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:36,672 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 470
+2023-05-22 19:34:36,672 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:36,709 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(470), returns -1
+2023-05-22 19:34:36,710 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,064 - decode-send - INFO - Frame480 decoded.
+2023-05-22 19:34:37,064 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:37,064 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 480
+2023-05-22 19:34:37,064 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,102 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(480), returns -1
+2023-05-22 19:34:37,103 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,478 - decode-send - INFO - Frame490 decoded.
+2023-05-22 19:34:37,478 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:37,479 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 490
+2023-05-22 19:34:37,479 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,516 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(490), returns -1
+2023-05-22 19:34:37,516 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,883 - decode-send - INFO - Frame500 decoded.
+2023-05-22 19:34:37,884 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:37,884 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 500
+2023-05-22 19:34:37,884 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:37,926 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(500), returns -1
+2023-05-22 19:34:37,926 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:38,284 - decode-send - INFO - Frame510 decoded.
+2023-05-22 19:34:38,285 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:38,285 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 510
+2023-05-22 19:34:38,285 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:38,322 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(510), returns -1
+2023-05-22 19:34:38,322 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:38,676 - decode-send - INFO - Frame520 decoded.
+2023-05-22 19:34:38,676 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:38,676 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 520
+2023-05-22 19:34:38,677 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:38,713 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(520), returns -1
+2023-05-22 19:34:38,714 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,070 - decode-send - INFO - Frame530 decoded.
+2023-05-22 19:34:39,070 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:39,071 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 530
+2023-05-22 19:34:39,071 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,108 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(530), returns -1
+2023-05-22 19:34:39,109 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,476 - decode-send - INFO - Frame540 decoded.
+2023-05-22 19:34:39,476 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:39,476 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 540
+2023-05-22 19:34:39,477 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,516 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(540), returns -1
+2023-05-22 19:34:39,516 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,880 - decode-send - INFO - Frame550 decoded.
+2023-05-22 19:34:39,881 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:39,881 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 550
+2023-05-22 19:34:39,881 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:39,924 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(550), returns -1
+2023-05-22 19:34:39,924 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:40,278 - decode-send - INFO - Frame560 decoded.
+2023-05-22 19:34:40,278 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:40,278 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 560
+2023-05-22 19:34:40,278 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:40,315 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(560), returns -1
+2023-05-22 19:34:40,315 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:40,680 - decode-send - INFO - Frame570 decoded.
+2023-05-22 19:34:40,680 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:40,680 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 570
+2023-05-22 19:34:40,681 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:40,718 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(570), returns -1
+2023-05-22 19:34:40,718 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,094 - decode-send - INFO - Frame580 decoded.
+2023-05-22 19:34:41,094 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:41,094 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 580
+2023-05-22 19:34:41,095 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,131 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(580), returns -1
+2023-05-22 19:34:41,132 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,479 - decode-send - INFO - Frame590 decoded.
+2023-05-22 19:34:41,479 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:41,479 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 590
+2023-05-22 19:34:41,480 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,518 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(590), returns -1
+2023-05-22 19:34:41,519 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,891 - decode-send - INFO - Frame600 decoded.
+2023-05-22 19:34:41,892 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:41,892 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 600
+2023-05-22 19:34:41,892 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:41,931 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(600), returns -1
+2023-05-22 19:34:41,932 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:42,276 - decode-send - INFO - Frame610 decoded.
+2023-05-22 19:34:42,276 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:42,276 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 610
+2023-05-22 19:34:42,277 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:42,314 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(610), returns -1
+2023-05-22 19:34:42,314 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:42,677 - decode-send - INFO - Frame620 decoded.
+2023-05-22 19:34:42,677 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:42,677 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 620
+2023-05-22 19:34:42,678 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:42,718 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(620), returns -1
+2023-05-22 19:34:42,718 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,080 - decode-send - INFO - Frame630 decoded.
+2023-05-22 19:34:43,080 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:43,080 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 630
+2023-05-22 19:34:43,081 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,117 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(630), returns -1
+2023-05-22 19:34:43,118 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,464 - decode-send - INFO - Frame640 decoded.
+2023-05-22 19:34:43,464 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:43,465 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 640
+2023-05-22 19:34:43,465 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,501 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(640), returns -1
+2023-05-22 19:34:43,501 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,874 - decode-send - INFO - Frame650 decoded.
+2023-05-22 19:34:43,875 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:43,875 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 650
+2023-05-22 19:34:43,875 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:43,913 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(650), returns -1
+2023-05-22 19:34:43,913 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:44,269 - decode-send - INFO - Frame660 decoded.
+2023-05-22 19:34:44,269 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:44,270 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 660
+2023-05-22 19:34:44,270 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:44,307 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(660), returns -1
+2023-05-22 19:34:44,308 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:44,673 - decode-send - INFO - Frame670 decoded.
+2023-05-22 19:34:44,674 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:44,674 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 670
+2023-05-22 19:34:44,674 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:44,714 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(670), returns -1
+2023-05-22 19:34:44,714 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,067 - decode-send - INFO - Frame680 decoded.
+2023-05-22 19:34:45,068 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:45,068 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 680
+2023-05-22 19:34:45,068 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,105 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(680), returns -1
+2023-05-22 19:34:45,105 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,461 - decode-send - INFO - Frame690 decoded.
+2023-05-22 19:34:45,461 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:45,461 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 690
+2023-05-22 19:34:45,461 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,498 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(690), returns -1
+2023-05-22 19:34:45,499 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,890 - decode-send - INFO - Frame700 decoded.
+2023-05-22 19:34:45,891 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:45,891 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 700
+2023-05-22 19:34:45,891 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:45,931 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(700), returns -1
+2023-05-22 19:34:45,931 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:46,268 - decode-send - INFO - Frame710 decoded.
+2023-05-22 19:34:46,268 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:46,268 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 710
+2023-05-22 19:34:46,269 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:46,305 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(710), returns -1
+2023-05-22 19:34:46,305 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:46,676 - decode-send - INFO - Frame720 decoded.
+2023-05-22 19:34:46,676 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:46,676 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 720
+2023-05-22 19:34:46,677 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:46,716 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(720), returns -1
+2023-05-22 19:34:46,716 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,069 - decode-send - INFO - Frame730 decoded.
+2023-05-22 19:34:47,070 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:47,070 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 730
+2023-05-22 19:34:47,070 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,109 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(730), returns -1
+2023-05-22 19:34:47,109 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,471 - decode-send - INFO - Frame740 decoded.
+2023-05-22 19:34:47,472 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:47,472 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 740
+2023-05-22 19:34:47,472 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,512 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(740), returns -1
+2023-05-22 19:34:47,512 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,868 - decode-send - INFO - Frame750 decoded.
+2023-05-22 19:34:47,868 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:47,868 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 750
+2023-05-22 19:34:47,869 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:47,906 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(750), returns -1
+2023-05-22 19:34:47,906 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:48,278 - decode-send - INFO - Frame760 decoded.
+2023-05-22 19:34:48,279 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:48,279 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 760
+2023-05-22 19:34:48,279 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:48,318 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(760), returns -1
+2023-05-22 19:34:48,318 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:48,664 - decode-send - INFO - Frame770 decoded.
+2023-05-22 19:34:48,665 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:48,665 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 770
+2023-05-22 19:34:48,665 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:48,719 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(770), returns -1
+2023-05-22 19:34:48,719 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,061 - decode-send - INFO - Frame780 decoded.
+2023-05-22 19:34:49,062 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:49,062 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 780
+2023-05-22 19:34:49,062 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,102 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(780), returns -1
+2023-05-22 19:34:49,102 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,463 - decode-send - INFO - Frame790 decoded.
+2023-05-22 19:34:49,463 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:49,463 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 790
+2023-05-22 19:34:49,463 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,512 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(790), returns -1
+2023-05-22 19:34:49,512 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,892 - decode-send - INFO - Frame800 decoded.
+2023-05-22 19:34:49,892 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:49,892 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 800
+2023-05-22 19:34:49,892 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:49,931 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(800), returns -1
+2023-05-22 19:34:49,931 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:50,270 - decode-send - INFO - Frame810 decoded.
+2023-05-22 19:34:50,271 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:50,271 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 810
+2023-05-22 19:34:50,271 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:50,311 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(810), returns -1
+2023-05-22 19:34:50,311 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:50,677 - decode-send - INFO - Frame820 decoded.
+2023-05-22 19:34:50,677 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:50,677 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 820
+2023-05-22 19:34:50,678 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:50,717 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(820), returns -1
+2023-05-22 19:34:50,717 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,070 - decode-send - INFO - Frame830 decoded.
+2023-05-22 19:34:51,071 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:51,071 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 830
+2023-05-22 19:34:51,071 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,109 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(830), returns -1
+2023-05-22 19:34:51,109 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,476 - decode-send - INFO - Frame840 decoded.
+2023-05-22 19:34:51,476 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:51,476 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 840
+2023-05-22 19:34:51,477 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,514 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(840), returns -1
+2023-05-22 19:34:51,514 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,872 - decode-send - INFO - Frame850 decoded.
+2023-05-22 19:34:51,873 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:51,873 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 850
+2023-05-22 19:34:51,873 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:51,912 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(850), returns -1
+2023-05-22 19:34:51,913 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:52,276 - decode-send - INFO - Frame860 decoded.
+2023-05-22 19:34:52,277 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:52,277 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 860
+2023-05-22 19:34:52,277 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:52,319 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(860), returns -1
+2023-05-22 19:34:52,319 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:52,675 - decode-send - INFO - Frame870 decoded.
+2023-05-22 19:34:52,675 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:52,675 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 870
+2023-05-22 19:34:52,676 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:52,713 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(870), returns -1
+2023-05-22 19:34:52,713 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,077 - decode-send - INFO - Frame880 decoded.
+2023-05-22 19:34:53,078 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:53,078 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 880
+2023-05-22 19:34:53,078 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,116 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(880), returns -1
+2023-05-22 19:34:53,116 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,465 - decode-send - INFO - Frame890 decoded.
+2023-05-22 19:34:53,465 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:53,466 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 890
+2023-05-22 19:34:53,466 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,505 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(890), returns -1
+2023-05-22 19:34:53,506 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,876 - decode-send - INFO - Frame900 decoded.
+2023-05-22 19:34:53,877 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:53,877 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 900
+2023-05-22 19:34:53,877 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:53,916 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(900), returns -1
+2023-05-22 19:34:53,917 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:54,261 - decode-send - INFO - Frame910 decoded.
+2023-05-22 19:34:54,261 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:54,261 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 910
+2023-05-22 19:34:54,262 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:54,304 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(910), returns -1
+2023-05-22 19:34:54,304 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:54,670 - decode-send - INFO - Frame920 decoded.
+2023-05-22 19:34:54,671 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:54,671 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 920
+2023-05-22 19:34:54,671 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:54,707 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(920), returns -1
+2023-05-22 19:34:54,708 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,064 - decode-send - INFO - Frame930 decoded.
+2023-05-22 19:34:55,064 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:55,064 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 930
+2023-05-22 19:34:55,064 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,101 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(930), returns -1
+2023-05-22 19:34:55,101 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,482 - decode-send - INFO - Frame940 decoded.
+2023-05-22 19:34:55,483 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:55,483 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 940
+2023-05-22 19:34:55,483 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,522 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(940), returns -1
+2023-05-22 19:34:55,522 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,868 - decode-send - INFO - Frame950 decoded.
+2023-05-22 19:34:55,868 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:55,868 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 950
+2023-05-22 19:34:55,868 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:55,914 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(950), returns -1
+2023-05-22 19:34:55,914 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:56,270 - decode-send - INFO - Frame960 decoded.
+2023-05-22 19:34:56,270 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:56,270 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 960
+2023-05-22 19:34:56,270 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:56,305 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(960), returns -1
+2023-05-22 19:34:56,306 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:56,669 - decode-send - INFO - Frame970 decoded.
+2023-05-22 19:34:56,669 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:56,669 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 970
+2023-05-22 19:34:56,670 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:56,704 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(970), returns -1
+2023-05-22 19:34:56,704 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,085 - decode-send - INFO - Frame980 decoded.
+2023-05-22 19:34:57,085 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:57,085 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 980
+2023-05-22 19:34:57,086 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,125 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(980), returns -1
+2023-05-22 19:34:57,125 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,476 - decode-send - INFO - Frame990 decoded.
+2023-05-22 19:34:57,476 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:57,476 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 990
+2023-05-22 19:34:57,477 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,527 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(990), returns -1
+2023-05-22 19:34:57,528 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,870 - decode-send - INFO - Frame1000 decoded.
+2023-05-22 19:34:57,870 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:57,870 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1000
+2023-05-22 19:34:57,871 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:57,906 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1000), returns -1
+2023-05-22 19:34:57,906 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:58,263 - decode-send - INFO - Frame1010 decoded.
+2023-05-22 19:34:58,263 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:58,263 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1010
+2023-05-22 19:34:58,264 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:58,300 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1010), returns -1
+2023-05-22 19:34:58,300 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:58,667 - decode-send - INFO - Frame1020 decoded.
+2023-05-22 19:34:58,668 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:58,668 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1020
+2023-05-22 19:34:58,668 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:58,705 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1020), returns -1
+2023-05-22 19:34:58,706 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,064 - decode-send - INFO - Frame1030 decoded.
+2023-05-22 19:34:59,065 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:59,065 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1030
+2023-05-22 19:34:59,065 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,104 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1030), returns -1
+2023-05-22 19:34:59,104 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,470 - decode-send - INFO - Frame1040 decoded.
+2023-05-22 19:34:59,470 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:59,470 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1040
+2023-05-22 19:34:59,470 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,507 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1040), returns -1
+2023-05-22 19:34:59,507 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,862 - decode-send - INFO - Frame1050 decoded.
+2023-05-22 19:34:59,863 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:34:59,863 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1050
+2023-05-22 19:34:59,863 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:34:59,901 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1050), returns -1
+2023-05-22 19:34:59,901 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:00,282 - decode-send - INFO - Frame1060 decoded.
+2023-05-22 19:35:00,282 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:00,282 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1060
+2023-05-22 19:35:00,283 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:00,325 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1060), returns -1
+2023-05-22 19:35:00,325 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:00,665 - decode-send - INFO - Frame1070 decoded.
+2023-05-22 19:35:00,666 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:00,666 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1070
+2023-05-22 19:35:00,666 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:00,706 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1070), returns -1
+2023-05-22 19:35:00,706 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,058 - decode-send - INFO - Frame1080 decoded.
+2023-05-22 19:35:01,059 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:01,059 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1080
+2023-05-22 19:35:01,059 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,098 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1080), returns -1
+2023-05-22 19:35:01,098 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,454 - decode-send - INFO - Frame1090 decoded.
+2023-05-22 19:35:01,454 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:01,454 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1090
+2023-05-22 19:35:01,455 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,495 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1090), returns -1
+2023-05-22 19:35:01,495 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,883 - decode-send - INFO - Frame1100 decoded.
+2023-05-22 19:35:01,883 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:01,883 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1100
+2023-05-22 19:35:01,884 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:01,922 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1100), returns -1
+2023-05-22 19:35:01,923 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:02,270 - decode-send - INFO - Frame1110 decoded.
+2023-05-22 19:35:02,270 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:02,270 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1110
+2023-05-22 19:35:02,271 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:02,309 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1110), returns -1
+2023-05-22 19:35:02,310 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:02,656 - decode-send - INFO - Frame1120 decoded.
+2023-05-22 19:35:02,656 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:02,657 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1120
+2023-05-22 19:35:02,657 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:02,695 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1120), returns -1
+2023-05-22 19:35:02,695 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,071 - decode-send - INFO - Frame1130 decoded.
+2023-05-22 19:35:03,071 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:03,071 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1130
+2023-05-22 19:35:03,072 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,109 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1130), returns -1
+2023-05-22 19:35:03,109 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,482 - decode-send - INFO - Frame1140 decoded.
+2023-05-22 19:35:03,482 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:03,482 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1140
+2023-05-22 19:35:03,482 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,521 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1140), returns -1
+2023-05-22 19:35:03,521 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,877 - decode-send - INFO - Frame1150 decoded.
+2023-05-22 19:35:03,878 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:03,878 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1150
+2023-05-22 19:35:03,878 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:03,913 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1150), returns -1
+2023-05-22 19:35:03,914 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:04,276 - decode-send - INFO - Frame1160 decoded.
+2023-05-22 19:35:04,277 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:04,277 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1160
+2023-05-22 19:35:04,277 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:04,314 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1160), returns -1
+2023-05-22 19:35:04,314 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:04,679 - decode-send - INFO - Frame1170 decoded.
+2023-05-22 19:35:04,680 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:04,680 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1170
+2023-05-22 19:35:04,680 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:04,714 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1170), returns -1
+2023-05-22 19:35:04,715 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,083 - decode-send - INFO - Frame1180 decoded.
+2023-05-22 19:35:05,083 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:05,083 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1180
+2023-05-22 19:35:05,084 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,139 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1180), returns -1
+2023-05-22 19:35:05,139 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,458 - decode-send - INFO - Frame1190 decoded.
+2023-05-22 19:35:05,458 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:05,458 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1190
+2023-05-22 19:35:05,459 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,497 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1190), returns -1
+2023-05-22 19:35:05,497 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,862 - decode-send - INFO - Frame1200 decoded.
+2023-05-22 19:35:05,862 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:05,862 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1200
+2023-05-22 19:35:05,863 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:05,899 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1200), returns -1
+2023-05-22 19:35:05,900 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:06,259 - decode-send - INFO - Frame1210 decoded.
+2023-05-22 19:35:06,259 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:06,259 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1210
+2023-05-22 19:35:06,260 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:06,292 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1210), returns -1
+2023-05-22 19:35:06,293 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:06,668 - decode-send - INFO - Frame1220 decoded.
+2023-05-22 19:35:06,668 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:06,668 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1220
+2023-05-22 19:35:06,669 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:06,706 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1220), returns -1
+2023-05-22 19:35:06,706 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,063 - decode-send - INFO - Frame1230 decoded.
+2023-05-22 19:35:07,063 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:07,063 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1230
+2023-05-22 19:35:07,063 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,100 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1230), returns -1
+2023-05-22 19:35:07,100 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,478 - decode-send - INFO - Frame1240 decoded.
+2023-05-22 19:35:07,478 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:07,479 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1240
+2023-05-22 19:35:07,479 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,517 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1240), returns -1
+2023-05-22 19:35:07,517 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,868 - decode-send - INFO - Frame1250 decoded.
+2023-05-22 19:35:07,868 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:07,869 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1250
+2023-05-22 19:35:07,869 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:07,906 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1250), returns -1
+2023-05-22 19:35:07,906 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:08,271 - decode-send - INFO - Frame1260 decoded.
+2023-05-22 19:35:08,272 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:08,272 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1260
+2023-05-22 19:35:08,272 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:08,306 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1260), returns -1
+2023-05-22 19:35:08,306 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:08,673 - decode-send - INFO - Frame1270 decoded.
+2023-05-22 19:35:08,673 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:08,673 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1270
+2023-05-22 19:35:08,674 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:08,711 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1270), returns -1
+2023-05-22 19:35:08,712 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,060 - decode-send - INFO - Frame1280 decoded.
+2023-05-22 19:35:09,061 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:09,061 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1280
+2023-05-22 19:35:09,061 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,100 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1280), returns -1
+2023-05-22 19:35:09,101 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,461 - decode-send - INFO - Frame1290 decoded.
+2023-05-22 19:35:09,461 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:09,462 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1290
+2023-05-22 19:35:09,462 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,499 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1290), returns -1
+2023-05-22 19:35:09,499 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,886 - decode-send - INFO - Frame1300 decoded.
+2023-05-22 19:35:09,886 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:09,886 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1300
+2023-05-22 19:35:09,887 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:09,925 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1300), returns -1
+2023-05-22 19:35:09,925 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:10,279 - decode-send - INFO - Frame1310 decoded.
+2023-05-22 19:35:10,279 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:10,279 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1310
+2023-05-22 19:35:10,279 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:10,318 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1310), returns -1
+2023-05-22 19:35:10,319 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:10,672 - decode-send - INFO - Frame1320 decoded.
+2023-05-22 19:35:10,672 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:10,672 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1320
+2023-05-22 19:35:10,672 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:10,711 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1320), returns -1
+2023-05-22 19:35:10,711 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,067 - decode-send - INFO - Frame1330 decoded.
+2023-05-22 19:35:11,067 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:11,067 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1330
+2023-05-22 19:35:11,068 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,107 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1330), returns -1
+2023-05-22 19:35:11,107 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,474 - decode-send - INFO - Frame1340 decoded.
+2023-05-22 19:35:11,474 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:11,474 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1340
+2023-05-22 19:35:11,474 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,513 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1340), returns -1
+2023-05-22 19:35:11,513 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,872 - decode-send - INFO - Frame1350 decoded.
+2023-05-22 19:35:11,872 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:11,872 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1350
+2023-05-22 19:35:11,872 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:11,917 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1350), returns -1
+2023-05-22 19:35:11,917 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:12,270 - decode-send - INFO - Frame1360 decoded.
+2023-05-22 19:35:12,271 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:12,271 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1360
+2023-05-22 19:35:12,271 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:12,308 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1360), returns -1
+2023-05-22 19:35:12,309 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:12,678 - decode-send - INFO - Frame1370 decoded.
+2023-05-22 19:35:12,679 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:12,679 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1370
+2023-05-22 19:35:12,679 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:12,718 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1370), returns -1
+2023-05-22 19:35:12,718 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,068 - decode-send - INFO - Frame1380 decoded.
+2023-05-22 19:35:13,069 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:13,069 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1380
+2023-05-22 19:35:13,069 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,107 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1380), returns -1
+2023-05-22 19:35:13,107 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,475 - decode-send - INFO - Frame1390 decoded.
+2023-05-22 19:35:13,475 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:13,476 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1390
+2023-05-22 19:35:13,476 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,514 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1390), returns -1
+2023-05-22 19:35:13,514 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,857 - decode-send - INFO - Frame1400 decoded.
+2023-05-22 19:35:13,858 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:13,858 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1400
+2023-05-22 19:35:13,858 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:13,896 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1400), returns -1
+2023-05-22 19:35:13,896 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:14,267 - decode-send - INFO - Frame1410 decoded.
+2023-05-22 19:35:14,267 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:14,267 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1410
+2023-05-22 19:35:14,268 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:14,306 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1410), returns -1
+2023-05-22 19:35:14,306 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:14,671 - decode-send - INFO - Frame1420 decoded.
+2023-05-22 19:35:14,672 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:14,672 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1420
+2023-05-22 19:35:14,672 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:14,710 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1420), returns -1
+2023-05-22 19:35:14,710 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,056 - decode-send - INFO - Frame1430 decoded.
+2023-05-22 19:35:15,056 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:15,056 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1430
+2023-05-22 19:35:15,057 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,093 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1430), returns -1
+2023-05-22 19:35:15,093 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,453 - decode-send - INFO - Frame1440 decoded.
+2023-05-22 19:35:15,453 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:15,454 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1440
+2023-05-22 19:35:15,454 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,491 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1440), returns -1
+2023-05-22 19:35:15,491 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,860 - decode-send - INFO - Frame1450 decoded.
+2023-05-22 19:35:15,860 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:15,860 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1450
+2023-05-22 19:35:15,860 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:15,895 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1450), returns -1
+2023-05-22 19:35:15,895 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:16,257 - decode-send - INFO - Frame1460 decoded.
+2023-05-22 19:35:16,257 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:16,257 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1460
+2023-05-22 19:35:16,257 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:16,286 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1460), returns -1
+2023-05-22 19:35:16,286 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:16,659 - decode-send - INFO - Frame1470 decoded.
+2023-05-22 19:35:16,660 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:16,660 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1470
+2023-05-22 19:35:16,660 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:16,696 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1470), returns -1
+2023-05-22 19:35:16,696 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,045 - decode-send - INFO - Frame1480 decoded.
+2023-05-22 19:35:17,046 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:17,046 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1480
+2023-05-22 19:35:17,046 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,081 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1480), returns -1
+2023-05-22 19:35:17,081 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,457 - decode-send - INFO - Frame1490 decoded.
+2023-05-22 19:35:17,457 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:17,457 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1490
+2023-05-22 19:35:17,458 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,495 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1490), returns -1
+2023-05-22 19:35:17,496 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,865 - decode-send - INFO - Frame1500 decoded.
+2023-05-22 19:35:17,865 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:17,866 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1500
+2023-05-22 19:35:17,866 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:17,899 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1500), returns -1
+2023-05-22 19:35:17,899 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:18,270 - decode-send - INFO - Frame1510 decoded.
+2023-05-22 19:35:18,270 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:18,270 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1510
+2023-05-22 19:35:18,270 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:18,307 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1510), returns -1
+2023-05-22 19:35:18,307 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:18,657 - decode-send - INFO - Frame1520 decoded.
+2023-05-22 19:35:18,657 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:18,657 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1520
+2023-05-22 19:35:18,658 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:18,697 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1520), returns -1
+2023-05-22 19:35:18,697 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,067 - decode-send - INFO - Frame1530 decoded.
+2023-05-22 19:35:19,067 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:19,067 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1530
+2023-05-22 19:35:19,068 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,105 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1530), returns -1
+2023-05-22 19:35:19,105 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,461 - decode-send - INFO - Frame1540 decoded.
+2023-05-22 19:35:19,461 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:19,461 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1540
+2023-05-22 19:35:19,461 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,501 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1540), returns -1
+2023-05-22 19:35:19,501 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,858 - decode-send - INFO - Frame1550 decoded.
+2023-05-22 19:35:19,858 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:19,859 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1550
+2023-05-22 19:35:19,859 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:19,898 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1550), returns -1
+2023-05-22 19:35:19,898 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:20,264 - decode-send - INFO - Frame1560 decoded.
+2023-05-22 19:35:20,264 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:20,265 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1560
+2023-05-22 19:35:20,265 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:20,301 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1560), returns -1
+2023-05-22 19:35:20,301 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:20,686 - decode-send - INFO - Frame1570 decoded.
+2023-05-22 19:35:20,686 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:20,686 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1570
+2023-05-22 19:35:20,687 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:20,726 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1570), returns -1
+2023-05-22 19:35:20,726 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,063 - decode-send - INFO - Frame1580 decoded.
+2023-05-22 19:35:21,064 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:21,064 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1580
+2023-05-22 19:35:21,064 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,104 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1580), returns -1
+2023-05-22 19:35:21,104 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,478 - decode-send - INFO - Frame1590 decoded.
+2023-05-22 19:35:21,478 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:21,478 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1590
+2023-05-22 19:35:21,478 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,611 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1590), returns -1
+2023-05-22 19:35:21,612 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,873 - decode-send - INFO - Frame1600 decoded.
+2023-05-22 19:35:21,874 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:21,874 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1600
+2023-05-22 19:35:21,874 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:21,911 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1600), returns -1
+2023-05-22 19:35:21,911 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:22,283 - decode-send - INFO - Frame1610 decoded.
+2023-05-22 19:35:22,284 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:22,284 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1610
+2023-05-22 19:35:22,284 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:22,324 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1610), returns -1
+2023-05-22 19:35:22,324 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:22,678 - decode-send - INFO - Frame1620 decoded.
+2023-05-22 19:35:22,678 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:22,678 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1620
+2023-05-22 19:35:22,679 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:22,718 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1620), returns -1
+2023-05-22 19:35:22,718 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,068 - decode-send - INFO - Frame1630 decoded.
+2023-05-22 19:35:23,068 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:23,068 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1630
+2023-05-22 19:35:23,068 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,106 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1630), returns -1
+2023-05-22 19:35:23,106 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,463 - decode-send - INFO - Frame1640 decoded.
+2023-05-22 19:35:23,464 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:23,464 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1640
+2023-05-22 19:35:23,464 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,504 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1640), returns -1
+2023-05-22 19:35:23,505 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,861 - decode-send - INFO - Frame1650 decoded.
+2023-05-22 19:35:23,862 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:23,862 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1650
+2023-05-22 19:35:23,862 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:23,896 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1650), returns -1
+2023-05-22 19:35:23,896 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:24,267 - decode-send - INFO - Frame1660 decoded.
+2023-05-22 19:35:24,268 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:24,268 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1660
+2023-05-22 19:35:24,268 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:24,305 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1660), returns -1
+2023-05-22 19:35:24,305 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:24,662 - decode-send - INFO - Frame1670 decoded.
+2023-05-22 19:35:24,662 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:24,662 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1670
+2023-05-22 19:35:24,662 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:24,701 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1670), returns -1
+2023-05-22 19:35:24,701 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,057 - decode-send - INFO - Frame1680 decoded.
+2023-05-22 19:35:25,058 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:25,058 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1680
+2023-05-22 19:35:25,058 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,097 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1680), returns -1
+2023-05-22 19:35:25,098 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,460 - decode-send - INFO - Frame1690 decoded.
+2023-05-22 19:35:25,461 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:25,461 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1690
+2023-05-22 19:35:25,461 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,500 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1690), returns -1
+2023-05-22 19:35:25,500 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,860 - decode-send - INFO - Frame1700 decoded.
+2023-05-22 19:35:25,860 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:25,860 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1700
+2023-05-22 19:35:25,860 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:25,896 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1700), returns -1
+2023-05-22 19:35:25,896 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:26,264 - decode-send - INFO - Frame1710 decoded.
+2023-05-22 19:35:26,264 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:26,264 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1710
+2023-05-22 19:35:26,264 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:26,301 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1710), returns -1
+2023-05-22 19:35:26,301 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:26,663 - decode-send - INFO - Frame1720 decoded.
+2023-05-22 19:35:26,663 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:26,663 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1720
+2023-05-22 19:35:26,663 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:26,701 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1720), returns -1
+2023-05-22 19:35:26,701 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,059 - decode-send - INFO - Frame1730 decoded.
+2023-05-22 19:35:27,059 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:27,059 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1730
+2023-05-22 19:35:27,060 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,096 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1730), returns -1
+2023-05-22 19:35:27,096 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,468 - decode-send - INFO - Frame1740 decoded.
+2023-05-22 19:35:27,468 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:27,468 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1740
+2023-05-22 19:35:27,469 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,508 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1740), returns -1
+2023-05-22 19:35:27,508 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,855 - decode-send - INFO - Frame1750 decoded.
+2023-05-22 19:35:27,855 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:27,856 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1750
+2023-05-22 19:35:27,856 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:27,893 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1750), returns -1
+2023-05-22 19:35:27,893 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:28,251 - decode-send - INFO - Frame1760 decoded.
+2023-05-22 19:35:28,251 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:28,251 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1760
+2023-05-22 19:35:28,252 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:28,290 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1760), returns -1
+2023-05-22 19:35:28,290 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:28,655 - decode-send - INFO - Frame1770 decoded.
+2023-05-22 19:35:28,656 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:28,656 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1770
+2023-05-22 19:35:28,656 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:28,696 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1770), returns -1
+2023-05-22 19:35:28,696 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,058 - decode-send - INFO - Frame1780 decoded.
+2023-05-22 19:35:29,059 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:29,059 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1780
+2023-05-22 19:35:29,059 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,097 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1780), returns -1
+2023-05-22 19:35:29,097 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,453 - decode-send - INFO - Frame1790 decoded.
+2023-05-22 19:35:29,453 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:29,454 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1790
+2023-05-22 19:35:29,454 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,493 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1790), returns -1
+2023-05-22 19:35:29,494 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,875 - decode-send - INFO - Frame1800 decoded.
+2023-05-22 19:35:29,876 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:29,876 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1800
+2023-05-22 19:35:29,876 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:29,915 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1800), returns -1
+2023-05-22 19:35:29,915 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:30,252 - decode-send - INFO - Frame1810 decoded.
+2023-05-22 19:35:30,252 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:30,252 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1810
+2023-05-22 19:35:30,253 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:30,291 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1810), returns -1
+2023-05-22 19:35:30,291 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:30,657 - decode-send - INFO - Frame1820 decoded.
+2023-05-22 19:35:30,657 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:30,657 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1820
+2023-05-22 19:35:30,658 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:30,695 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1820), returns -1
+2023-05-22 19:35:30,696 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,061 - decode-send - INFO - Frame1830 decoded.
+2023-05-22 19:35:31,062 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:31,062 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1830
+2023-05-22 19:35:31,062 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,098 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1830), returns -1
+2023-05-22 19:35:31,099 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,466 - decode-send - INFO - Frame1840 decoded.
+2023-05-22 19:35:31,467 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:31,467 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1840
+2023-05-22 19:35:31,467 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,505 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1840), returns -1
+2023-05-22 19:35:31,505 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,857 - decode-send - INFO - Frame1850 decoded.
+2023-05-22 19:35:31,857 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:31,857 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1850
+2023-05-22 19:35:31,857 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:31,894 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1850), returns -1
+2023-05-22 19:35:31,895 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:32,263 - decode-send - INFO - Frame1860 decoded.
+2023-05-22 19:35:32,263 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:32,263 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1860
+2023-05-22 19:35:32,264 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:32,301 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1860), returns -1
+2023-05-22 19:35:32,301 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:32,666 - decode-send - INFO - Frame1870 decoded.
+2023-05-22 19:35:32,666 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:32,666 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1870
+2023-05-22 19:35:32,667 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:32,705 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1870), returns -1
+2023-05-22 19:35:32,705 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,053 - decode-send - INFO - WebSocket connection success
+2023-05-22 19:35:33,064 - decode-send - INFO - Frame1880 decoded.
+2023-05-22 19:35:33,064 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:33,064 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1880
+2023-05-22 19:35:33,065 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,112 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1880), returns -1
+2023-05-22 19:35:33,112 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,450 - decode-send - INFO - Frame1890 decoded.
+2023-05-22 19:35:33,451 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:33,451 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1890
+2023-05-22 19:35:33,451 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,490 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1890), returns -1
+2023-05-22 19:35:33,490 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,870 - decode-send - INFO - Frame1900 decoded.
+2023-05-22 19:35:33,870 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:33,870 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1900
+2023-05-22 19:35:33,871 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:33,911 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1900), returns -1
+2023-05-22 19:35:33,911 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:34,256 - decode-send - INFO - Frame1910 decoded.
+2023-05-22 19:35:34,257 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:34,257 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1910
+2023-05-22 19:35:34,257 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:34,295 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1910), returns -1
+2023-05-22 19:35:34,296 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:34,653 - decode-send - INFO - Frame1920 decoded.
+2023-05-22 19:35:34,653 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:34,653 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1920
+2023-05-22 19:35:34,653 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:34,695 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1920), returns -1
+2023-05-22 19:35:34,695 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,053 - decode-send - INFO - Frame1930 decoded.
+2023-05-22 19:35:35,053 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:35,053 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1930
+2023-05-22 19:35:35,053 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,092 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1930), returns -1
+2023-05-22 19:35:35,092 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,462 - decode-send - INFO - Frame1940 decoded.
+2023-05-22 19:35:35,462 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:35,462 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1940
+2023-05-22 19:35:35,463 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,501 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1940), returns -1
+2023-05-22 19:35:35,501 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,863 - decode-send - INFO - Frame1950 decoded.
+2023-05-22 19:35:35,863 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:35,863 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1950
+2023-05-22 19:35:35,863 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:35,903 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1950), returns -1
+2023-05-22 19:35:35,903 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:36,260 - decode-send - INFO - Frame1960 decoded.
+2023-05-22 19:35:36,261 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:36,261 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1960
+2023-05-22 19:35:36,261 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:36,298 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1960), returns -1
+2023-05-22 19:35:36,298 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:36,673 - decode-send - INFO - Frame1970 decoded.
+2023-05-22 19:35:36,673 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:36,674 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1970
+2023-05-22 19:35:36,674 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:36,711 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1970), returns -1
+2023-05-22 19:35:36,711 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,066 - decode-send - INFO - Frame1980 decoded.
+2023-05-22 19:35:37,067 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:37,067 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1980
+2023-05-22 19:35:37,067 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,104 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1980), returns -1
+2023-05-22 19:35:37,105 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,466 - decode-send - INFO - Frame1990 decoded.
+2023-05-22 19:35:37,466 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:37,466 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 1990
+2023-05-22 19:35:37,467 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,506 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(1990), returns -1
+2023-05-22 19:35:37,506 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,887 - decode-send - INFO - Frame2000 decoded.
+2023-05-22 19:35:37,887 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:37,887 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2000
+2023-05-22 19:35:37,888 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:37,925 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2000), returns -1
+2023-05-22 19:35:37,925 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:38,251 - decode-send - INFO - Frame2010 decoded.
+2023-05-22 19:35:38,251 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:38,251 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2010
+2023-05-22 19:35:38,252 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:38,290 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2010), returns -1
+2023-05-22 19:35:38,290 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:38,674 - decode-send - INFO - Frame2020 decoded.
+2023-05-22 19:35:38,675 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:38,675 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2020
+2023-05-22 19:35:38,675 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:38,762 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2020), returns -1
+2023-05-22 19:35:38,785 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,058 - decode-send - INFO - Frame2030 decoded.
+2023-05-22 19:35:39,058 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:39,058 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2030
+2023-05-22 19:35:39,059 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,096 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2030), returns -1
+2023-05-22 19:35:39,096 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,462 - decode-send - INFO - Frame2040 decoded.
+2023-05-22 19:35:39,462 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:39,462 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2040
+2023-05-22 19:35:39,463 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,502 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2040), returns -1
+2023-05-22 19:35:39,502 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,864 - decode-send - INFO - Frame2050 decoded.
+2023-05-22 19:35:39,864 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:39,864 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2050
+2023-05-22 19:35:39,865 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:39,903 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2050), returns -1
+2023-05-22 19:35:39,903 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:40,260 - decode-send - INFO - Frame2060 decoded.
+2023-05-22 19:35:40,261 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:40,261 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2060
+2023-05-22 19:35:40,261 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:40,300 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2060), returns -1
+2023-05-22 19:35:40,300 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:40,659 - decode-send - INFO - Frame2070 decoded.
+2023-05-22 19:35:40,660 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:40,660 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2070
+2023-05-22 19:35:40,660 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:40,698 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2070), returns -1
+2023-05-22 19:35:40,698 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,047 - decode-send - INFO - Frame2080 decoded.
+2023-05-22 19:35:41,047 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:41,047 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2080
+2023-05-22 19:35:41,048 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,085 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2080), returns -1
+2023-05-22 19:35:41,086 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,448 - decode-send - INFO - Frame2090 decoded.
+2023-05-22 19:35:41,449 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:41,449 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2090
+2023-05-22 19:35:41,449 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,488 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2090), returns -1
+2023-05-22 19:35:41,489 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,855 - decode-send - INFO - Frame2100 decoded.
+2023-05-22 19:35:41,856 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:41,856 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2100
+2023-05-22 19:35:41,856 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:41,893 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2100), returns -1
+2023-05-22 19:35:41,893 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:42,253 - decode-send - INFO - Frame2110 decoded.
+2023-05-22 19:35:42,253 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:42,253 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2110
+2023-05-22 19:35:42,254 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:42,296 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2110), returns -1
+2023-05-22 19:35:42,296 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:42,658 - decode-send - INFO - Frame2120 decoded.
+2023-05-22 19:35:42,658 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:42,659 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2120
+2023-05-22 19:35:42,659 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:42,698 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2120), returns -1
+2023-05-22 19:35:42,699 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,053 - decode-send - INFO - Frame2130 decoded.
+2023-05-22 19:35:43,053 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:43,054 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2130
+2023-05-22 19:35:43,054 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,091 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2130), returns -1
+2023-05-22 19:35:43,091 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,448 - decode-send - INFO - Frame2140 decoded.
+2023-05-22 19:35:43,449 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:43,449 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2140
+2023-05-22 19:35:43,449 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,485 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2140), returns -1
+2023-05-22 19:35:43,486 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,857 - decode-send - INFO - Frame2150 decoded.
+2023-05-22 19:35:43,857 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:43,857 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2150
+2023-05-22 19:35:43,858 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:43,896 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2150), returns -1
+2023-05-22 19:35:43,896 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:44,250 - decode-send - INFO - Frame2160 decoded.
+2023-05-22 19:35:44,251 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:44,251 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2160
+2023-05-22 19:35:44,251 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:44,292 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2160), returns -1
+2023-05-22 19:35:44,292 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:44,645 - decode-send - INFO - Frame2170 decoded.
+2023-05-22 19:35:44,645 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:44,646 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2170
+2023-05-22 19:35:44,646 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:44,682 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2170), returns -1
+2023-05-22 19:35:44,683 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,065 - decode-send - INFO - Frame2180 decoded.
+2023-05-22 19:35:45,065 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:45,065 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2180
+2023-05-22 19:35:45,065 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,107 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2180), returns -1
+2023-05-22 19:35:45,108 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,467 - decode-send - INFO - Frame2190 decoded.
+2023-05-22 19:35:45,467 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:45,467 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2190
+2023-05-22 19:35:45,467 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,500 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2190), returns -1
+2023-05-22 19:35:45,501 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,889 - decode-send - INFO - Frame2200 decoded.
+2023-05-22 19:35:45,889 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:45,889 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2200
+2023-05-22 19:35:45,890 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:45,925 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2200), returns -1
+2023-05-22 19:35:45,925 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:46,248 - decode-send - INFO - Frame2210 decoded.
+2023-05-22 19:35:46,248 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:46,248 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2210
+2023-05-22 19:35:46,248 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:46,290 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2210), returns -1
+2023-05-22 19:35:46,290 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:46,652 - decode-send - INFO - Frame2220 decoded.
+2023-05-22 19:35:46,652 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:46,652 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2220
+2023-05-22 19:35:46,653 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:46,702 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2220), returns -1
+2023-05-22 19:35:46,702 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,051 - decode-send - INFO - Frame2230 decoded.
+2023-05-22 19:35:47,051 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:47,052 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2230
+2023-05-22 19:35:47,052 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,097 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2230), returns -1
+2023-05-22 19:35:47,098 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,450 - decode-send - INFO - Frame2240 decoded.
+2023-05-22 19:35:47,450 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:47,451 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2240
+2023-05-22 19:35:47,451 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,492 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2240), returns -1
+2023-05-22 19:35:47,492 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,845 - decode-send - INFO - Frame2250 decoded.
+2023-05-22 19:35:47,845 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:47,845 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2250
+2023-05-22 19:35:47,845 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:47,887 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2250), returns -1
+2023-05-22 19:35:47,888 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:48,254 - decode-send - INFO - Frame2260 decoded.
+2023-05-22 19:35:48,254 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:48,254 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2260
+2023-05-22 19:35:48,255 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:48,297 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2260), returns -1
+2023-05-22 19:35:48,298 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:48,645 - decode-send - INFO - Frame2270 decoded.
+2023-05-22 19:35:48,645 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:48,645 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2270
+2023-05-22 19:35:48,646 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:48,687 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2270), returns -1
+2023-05-22 19:35:48,687 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,053 - decode-send - INFO - Frame2280 decoded.
+2023-05-22 19:35:49,053 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:49,053 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2280
+2023-05-22 19:35:49,053 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,094 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2280), returns -1
+2023-05-22 19:35:49,094 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,448 - decode-send - INFO - Frame2290 decoded.
+2023-05-22 19:35:49,449 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:49,449 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2290
+2023-05-22 19:35:49,449 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,491 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2290), returns -1
+2023-05-22 19:35:49,491 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,854 - decode-send - INFO - Frame2300 decoded.
+2023-05-22 19:35:49,855 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:49,855 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2300
+2023-05-22 19:35:49,855 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:49,897 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2300), returns -1
+2023-05-22 19:35:49,897 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:50,247 - decode-send - INFO - Frame2310 decoded.
+2023-05-22 19:35:50,247 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:50,248 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2310
+2023-05-22 19:35:50,248 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:50,286 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2310), returns -1
+2023-05-22 19:35:50,286 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:50,657 - decode-send - INFO - Frame2320 decoded.
+2023-05-22 19:35:50,658 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:50,658 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2320
+2023-05-22 19:35:50,658 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:50,699 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2320), returns -1
+2023-05-22 19:35:50,700 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,055 - decode-send - INFO - Frame2330 decoded.
+2023-05-22 19:35:51,055 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:51,055 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2330
+2023-05-22 19:35:51,056 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,093 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2330), returns -1
+2023-05-22 19:35:51,093 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,461 - decode-send - INFO - Frame2340 decoded.
+2023-05-22 19:35:51,461 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:51,462 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2340
+2023-05-22 19:35:51,462 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,500 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2340), returns -1
+2023-05-22 19:35:51,500 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,854 - decode-send - INFO - Frame2350 decoded.
+2023-05-22 19:35:51,854 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:51,855 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2350
+2023-05-22 19:35:51,855 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:51,894 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2350), returns -1
+2023-05-22 19:35:51,894 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:52,245 - decode-send - INFO - Frame2360 decoded.
+2023-05-22 19:35:52,245 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:52,246 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2360
+2023-05-22 19:35:52,246 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:52,282 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2360), returns -1
+2023-05-22 19:35:52,282 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:52,643 - decode-send - INFO - Frame2370 decoded.
+2023-05-22 19:35:52,643 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:52,643 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2370
+2023-05-22 19:35:52,644 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:52,683 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2370), returns -1
+2023-05-22 19:35:52,683 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,049 - decode-send - INFO - Frame2380 decoded.
+2023-05-22 19:35:53,049 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:53,050 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2380
+2023-05-22 19:35:53,050 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,088 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2380), returns -1
+2023-05-22 19:35:53,088 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,440 - decode-send - INFO - Frame2390 decoded.
+2023-05-22 19:35:53,440 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:53,440 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2390
+2023-05-22 19:35:53,440 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,479 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2390), returns -1
+2023-05-22 19:35:53,479 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,871 - decode-send - INFO - Frame2400 decoded.
+2023-05-22 19:35:53,872 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:53,872 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2400
+2023-05-22 19:35:53,872 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:53,912 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2400), returns -1
+2023-05-22 19:35:53,913 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:54,258 - decode-send - INFO - Frame2410 decoded.
+2023-05-22 19:35:54,258 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:54,258 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2410
+2023-05-22 19:35:54,259 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:54,296 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2410), returns -1
+2023-05-22 19:35:54,296 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:54,668 - decode-send - INFO - Frame2420 decoded.
+2023-05-22 19:35:54,668 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:54,668 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2420
+2023-05-22 19:35:54,668 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:54,707 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2420), returns -1
+2023-05-22 19:35:54,707 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,047 - decode-send - INFO - Frame2430 decoded.
+2023-05-22 19:35:55,047 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:55,047 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2430
+2023-05-22 19:35:55,048 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,085 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2430), returns -1
+2023-05-22 19:35:55,085 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,466 - decode-send - INFO - Frame2440 decoded.
+2023-05-22 19:35:55,466 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:55,466 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2440
+2023-05-22 19:35:55,467 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,521 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2440), returns -1
+2023-05-22 19:35:55,521 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,850 - decode-send - INFO - Frame2450 decoded.
+2023-05-22 19:35:55,850 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:55,851 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2450
+2023-05-22 19:35:55,851 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:55,889 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2450), returns -1
+2023-05-22 19:35:55,889 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:56,272 - decode-send - INFO - Frame2460 decoded.
+2023-05-22 19:35:56,272 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:56,272 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2460
+2023-05-22 19:35:56,272 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:56,310 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2460), returns -1
+2023-05-22 19:35:56,311 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:56,644 - decode-send - INFO - Frame2470 decoded.
+2023-05-22 19:35:56,645 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:56,645 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2470
+2023-05-22 19:35:56,645 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:56,684 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2470), returns -1
+2023-05-22 19:35:56,684 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,041 - decode-send - INFO - Frame2480 decoded.
+2023-05-22 19:35:57,042 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:57,042 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2480
+2023-05-22 19:35:57,042 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,078 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2480), returns -1
+2023-05-22 19:35:57,079 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,441 - decode-send - INFO - Frame2490 decoded.
+2023-05-22 19:35:57,441 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:57,441 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2490
+2023-05-22 19:35:57,441 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,481 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2490), returns -1
+2023-05-22 19:35:57,482 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,847 - decode-send - INFO - Frame2500 decoded.
+2023-05-22 19:35:57,847 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:57,847 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2500
+2023-05-22 19:35:57,847 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:57,884 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2500), returns -1
+2023-05-22 19:35:57,884 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:58,247 - decode-send - INFO - Frame2510 decoded.
+2023-05-22 19:35:58,247 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:58,248 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2510
+2023-05-22 19:35:58,248 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:58,286 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2510), returns -1
+2023-05-22 19:35:58,287 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:58,644 - decode-send - INFO - Frame2520 decoded.
+2023-05-22 19:35:58,644 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:58,644 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2520
+2023-05-22 19:35:58,645 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:58,682 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2520), returns -1
+2023-05-22 19:35:58,682 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,054 - decode-send - INFO - Frame2530 decoded.
+2023-05-22 19:35:59,055 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:59,055 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2530
+2023-05-22 19:35:59,055 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,093 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2530), returns -1
+2023-05-22 19:35:59,093 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,452 - decode-send - INFO - Frame2540 decoded.
+2023-05-22 19:35:59,452 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:59,452 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2540
+2023-05-22 19:35:59,453 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,491 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2540), returns -1
+2023-05-22 19:35:59,491 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,851 - decode-send - INFO - Frame2550 decoded.
+2023-05-22 19:35:59,851 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:35:59,851 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2550
+2023-05-22 19:35:59,852 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:35:59,889 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2550), returns -1
+2023-05-22 19:35:59,889 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:00,249 - decode-send - INFO - Frame2560 decoded.
+2023-05-22 19:36:00,249 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:00,249 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2560
+2023-05-22 19:36:00,249 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:00,291 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2560), returns -1
+2023-05-22 19:36:00,292 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:00,655 - decode-send - INFO - Frame2570 decoded.
+2023-05-22 19:36:00,655 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:00,655 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2570
+2023-05-22 19:36:00,656 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:00,694 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2570), returns -1
+2023-05-22 19:36:00,695 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,049 - decode-send - INFO - Frame2580 decoded.
+2023-05-22 19:36:01,049 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:01,049 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2580
+2023-05-22 19:36:01,049 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,084 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2580), returns -1
+2023-05-22 19:36:01,084 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,447 - decode-send - INFO - Frame2590 decoded.
+2023-05-22 19:36:01,447 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:01,447 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2590
+2023-05-22 19:36:01,448 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,481 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2590), returns -1
+2023-05-22 19:36:01,481 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,861 - decode-send - INFO - Frame2600 decoded.
+2023-05-22 19:36:01,861 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:01,862 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2600
+2023-05-22 19:36:01,862 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:01,897 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2600), returns -1
+2023-05-22 19:36:01,898 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:02,264 - decode-send - INFO - Frame2610 decoded.
+2023-05-22 19:36:02,265 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:02,265 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2610
+2023-05-22 19:36:02,265 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:02,300 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2610), returns -1
+2023-05-22 19:36:02,300 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:02,642 - decode-send - INFO - Frame2620 decoded.
+2023-05-22 19:36:02,642 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:02,642 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2620
+2023-05-22 19:36:02,643 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:02,677 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2620), returns -1
+2023-05-22 19:36:02,678 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,050 - decode-send - INFO - Frame2630 decoded.
+2023-05-22 19:36:03,051 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:03,051 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2630
+2023-05-22 19:36:03,051 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,086 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2630), returns -1
+2023-05-22 19:36:03,086 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,436 - decode-send - INFO - Frame2640 decoded.
+2023-05-22 19:36:03,436 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:03,436 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2640
+2023-05-22 19:36:03,436 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,472 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2640), returns -1
+2023-05-22 19:36:03,473 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,851 - decode-send - INFO - Frame2650 decoded.
+2023-05-22 19:36:03,852 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:03,852 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2650
+2023-05-22 19:36:03,852 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:03,880 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2650), returns -1
+2023-05-22 19:36:03,880 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:04,247 - decode-send - INFO - Frame2660 decoded.
+2023-05-22 19:36:04,247 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:04,247 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2660
+2023-05-22 19:36:04,248 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:04,289 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2660), returns -1
+2023-05-22 19:36:04,290 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:04,669 - decode-send - INFO - Frame2670 decoded.
+2023-05-22 19:36:04,669 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:04,669 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2670
+2023-05-22 19:36:04,670 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:04,693 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2670), returns -1
+2023-05-22 19:36:04,693 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,043 - decode-send - INFO - Frame2680 decoded.
+2023-05-22 19:36:05,043 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:05,043 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2680
+2023-05-22 19:36:05,044 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,077 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2680), returns -1
+2023-05-22 19:36:05,077 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,452 - decode-send - INFO - Frame2690 decoded.
+2023-05-22 19:36:05,452 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:05,452 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2690
+2023-05-22 19:36:05,453 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,483 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2690), returns -1
+2023-05-22 19:36:05,484 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,887 - decode-send - INFO - Frame2700 decoded.
+2023-05-22 19:36:05,888 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:05,888 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2700
+2023-05-22 19:36:05,888 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:05,923 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2700), returns -1
+2023-05-22 19:36:05,923 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:06,272 - decode-send - INFO - Frame2710 decoded.
+2023-05-22 19:36:06,272 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:06,272 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2710
+2023-05-22 19:36:06,273 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:06,303 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2710), returns -1
+2023-05-22 19:36:06,304 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:06,654 - decode-send - INFO - Frame2720 decoded.
+2023-05-22 19:36:06,654 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:06,654 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2720
+2023-05-22 19:36:06,655 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:06,689 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2720), returns -1
+2023-05-22 19:36:06,689 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,068 - decode-send - INFO - Frame2730 decoded.
+2023-05-22 19:36:07,068 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:07,068 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2730
+2023-05-22 19:36:07,069 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,102 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2730), returns -1
+2023-05-22 19:36:07,102 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,453 - decode-send - INFO - Frame2740 decoded.
+2023-05-22 19:36:07,454 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:07,454 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2740
+2023-05-22 19:36:07,454 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,490 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2740), returns -1
+2023-05-22 19:36:07,491 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,857 - decode-send - INFO - Frame2750 decoded.
+2023-05-22 19:36:07,857 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:07,857 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2750
+2023-05-22 19:36:07,858 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:07,893 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2750), returns -1
+2023-05-22 19:36:07,894 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:08,261 - decode-send - INFO - Frame2760 decoded.
+2023-05-22 19:36:08,262 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:08,262 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2760
+2023-05-22 19:36:08,262 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:08,298 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2760), returns -1
+2023-05-22 19:36:08,298 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:08,661 - decode-send - INFO - Frame2770 decoded.
+2023-05-22 19:36:08,661 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:08,662 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2770
+2023-05-22 19:36:08,662 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:08,695 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2770), returns -1
+2023-05-22 19:36:08,695 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,040 - decode-send - INFO - Frame2780 decoded.
+2023-05-22 19:36:09,040 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:09,041 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2780
+2023-05-22 19:36:09,041 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,076 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2780), returns -1
+2023-05-22 19:36:09,076 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,473 - decode-send - INFO - Frame2790 decoded.
+2023-05-22 19:36:09,473 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:09,473 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2790
+2023-05-22 19:36:09,473 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,502 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2790), returns -1
+2023-05-22 19:36:09,502 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,846 - decode-send - INFO - Frame2800 decoded.
+2023-05-22 19:36:09,847 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:09,847 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2800
+2023-05-22 19:36:09,847 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:09,883 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2800), returns -1
+2023-05-22 19:36:09,883 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:10,255 - decode-send - INFO - Frame2810 decoded.
+2023-05-22 19:36:10,256 - decode-send - INFO - decodeFrames: Current queue size: detected_faces:0, decoded_frameImg_num:1, result:0
+2023-05-22 19:36:10,256 - decode-send - INFO - detectAndSaveFaces: queue_dict['decoded_frameImg_num'].get: 2810
+2023-05-22 19:36:10,256 - decode-send - INFO - detectAndSaveFaces1: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0
+2023-05-22 19:36:10,290 - decode-send - INFO - ERROR: detectAndSaveFacesForOneFrame(2810), returns -1
+2023-05-22 19:36:10,290 - decode-send - INFO - detectAndSaveFaces2: Current queue size: detected_faces:0, decoded_frameImg_num:0, result:0

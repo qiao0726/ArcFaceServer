@@ -1,0 +1,18 @@
+def hr_web():
+    while True:
+        def on_open(wsapp):
+            print("on_open")
+            while True:
+                mes = get_result.get()
+                get_result.task_done()
+                logger.info("WebSocket Get:" + str(mes))
+                time.sleep(0.5)
+                wsapp.send(json.dumps(mes))
+                logger.info("SEND: " + str(json.dumps(mes)))
+
+        wsapp = websocket.WebSocketApp("ws://192.168.3.137:8889/face/webSocketServer",
+                                       on_open=on_open,
+                                       on_error=,
+                                       on_close=
+                                       # on_message=on_message
+                                       )
